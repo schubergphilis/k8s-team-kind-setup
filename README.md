@@ -6,7 +6,6 @@
 * [ Deploy metrics-server ](#metrics-server)
 * [ Validate environment with network policies ](#test-environment)
 * [ Validate environment with DNS ](#dns-environment)
-* [ Pod design ](#pod-design)
 
 <a name="requirements"></a>
 [ Back to index ](#index)
@@ -14,7 +13,6 @@
 * [Docker](https://docs.docker.com/install/#supported-platforms)
 * [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 * [Kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
-* Knowledge of one command line editor like vi, vim or nano.
 
 
 <a name="create"></a>
